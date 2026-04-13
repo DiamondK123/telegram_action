@@ -38,7 +38,7 @@ for i in range(len(stock)):  # 迴圈依序爬股價
     message = "股票 " + stockid + " 即時股價為 " + price
 
     # bot token
-    token = "請改成你的新token"
+    token = "8713327691:AAEZhdNu_7xb6Kh_4RwzDbjmHZZKRW2tT3w"
 
     # 使用者 id
     chat_id = "6382525799"
