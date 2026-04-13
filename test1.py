@@ -1,4 +1,4 @@
-	# 先導入後面會用到的套件
+# 先導入後面會用到的套件
 import requests # 請求工具
 from bs4 import BeautifulSoup # 解析工具
 import time # 用來暫停程式
@@ -34,11 +34,11 @@ stock = ["1101","2330"]
 
 	    # bot token
 
-	    token = "輸入你的 bot token"
+	    token = "8713327691:AAEZhdNu_7xb6Kh_4RwzDbjmHZZKRW2tT3w"
 
 	    # 使用者 id
 
-	    chat_id="輸入你的 telegram id"
+	    chat_id="6382525799"
 
 	    # bot 送訊息
 
